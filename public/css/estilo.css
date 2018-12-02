@@ -1,0 +1,19 @@
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+#map {
+height: calc(100% - 56px);
+}
+
+#iframe {
+height: calc(100% - 56px);
+width: 100%;
+}
+
+#img_logo{
+	width: 50%;
+	margin-top: 20px;
+}
